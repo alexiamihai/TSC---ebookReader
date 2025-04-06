@@ -62,7 +62,7 @@ Mai jos sunt prezentate valorile medii de consum pentru principalele componente 
 
 ##  Diagrame si Scheme
 
-![alt text](image.png)
+![image.png](https://github.com/alexiamihai/TSC---ebookReader/blob/main/Images/DIAGRAMA.png)
 
 ---
 
